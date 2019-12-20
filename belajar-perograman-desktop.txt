@@ -1,0 +1,3 @@
+Bahas pemrograman desktop yang akan dipelajari:
+- JAVA
+- Python
