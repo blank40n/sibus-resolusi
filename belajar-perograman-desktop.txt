@@ -5,3 +5,5 @@ Bahas pemrograman desktop yang akan dipelajari:
 - Python
   * Dasar pemrograman python
   * OOP python
+- Android
+- Dart
