@@ -1,0 +1,7 @@
+Bahas pemrograman desktop yang akan dipelajari:
+- JAVA
+  * Dasar pemrograman JAVA
+  * OOP JAVA
+- Python
+  * Dasar pemrograman python
+  * OOP python
